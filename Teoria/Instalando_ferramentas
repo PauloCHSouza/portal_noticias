@@ -1,0 +1,20 @@
+NPM: Já é instalado junto ao NodeJS, necessitando somente inicialo no projeto.
+    Para iniciar abra o prompt de comando (CMD), navegue até a pasta do projeto e digite o comando:
+         >npm init
+ 
+    Declare as configurações como desejar e OK.
+
+EXPRESS: Com o NPM instalado basta navegar até a pasta do projeto no CMD e digitar o comando.
+            >npm install express -save
+
+        Com o parametro -save ele traz os arquivos de fato para o projeto, isso facilita para que outras pessoas quando forem baixar o projeto ja tenham acesso ao express sem precisar instala-lo.
+
+EJS: Com o NPM instalado basta navegar até a pasta do projeto no CMD e digitar o comando.
+        >npm install ejs --save
+
+    Com o parametro --save ele traz os arquivos de fato para o projeto, isso facilita para que outras pessoas quando forem baixar o projeto ja tenham acesso ao express sem precisar instala-lo.
+
+NODEMON: Com o NPM instalado basta navegar até a pasta do projeto no CMD e digitar o comando.
+            >npm install -g nodemon
+
+    Com o parametro -g será realizada uma instalação global.
